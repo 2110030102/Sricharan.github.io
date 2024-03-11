@@ -1,2 +1,2 @@
-# Portfolio.github.io
-Portfolio site showing my resume and projects
+# Protfolio.github.io
+Protfolio site showing my resume and projects
